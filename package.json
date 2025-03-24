@@ -1,0 +1,21 @@
+{
+    "name": "eslint-plugin-no-moment-vihu",
+    "version": "1.0.0",
+    "description": "An ESLint plugin that forbids usage of 'moment' library",
+    "main": "index.js",
+    "keywords": [
+      "eslint",
+      "eslintplugin",
+      "no-moment",
+      "moment"
+    ],
+    "scripts": {
+      "test": "echo \"No tests yet\" && exit 0"
+    },
+    "author": "Guðmundur Örn Arnarsson",
+    "license": "MIT",
+    "peerDependencies": {
+      "eslint": "^7 || ^8"
+    }
+  }
+  
